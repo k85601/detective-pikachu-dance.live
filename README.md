@@ -5,12 +5,12 @@ An initiative, using frames from [`terminal-parrot`](https://github.com/k85601/d
 
 # Try it!
 ```bash
-curl https://github.com/k85601/detective-pikachu-dance.io
+curl https://github.com/k85601/detective-pikachu-dance.live
 ```
 
 # :partyparrot:
 <div align="center">
-  <img src='https://d.pr/i/jKluc0.gif](https://github.com/k85601/detective-pikachu-dance.io/blob/main/dance.live.gif' />
+  <img src='https://d.pr/i/jKluc0.gif](https://github.com/k85601/detective-pikachu-dance.live/blob/master/dance.live.gif' />
 </div>
 
 # Thanks
