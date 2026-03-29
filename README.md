@@ -10,7 +10,7 @@ curl https://github.com/k85601/detective-pikachu-dance.live
 
 # :partydetectivepikachu:
 <div align="center">
-  <img src='https://d.pr/i/jKluc0.gif](https://github.com/k85601/detective-pikachu-dance.live/blob/master/dance.live.gif)/>
+  <img src="https://github.com/k85601/detective-pikachu-dance.live/blob/master/dance.gif?raw=true" width="400"/>
 </div>
 
 # Thanks
