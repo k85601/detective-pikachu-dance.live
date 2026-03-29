@@ -5,7 +5,7 @@ An initiative, using frames from [`terminal-parrot`](https://github.com/k85601/d
 
 # Try it!
 ```bash
-curl https://github.com/k85601/detective-pikachu-dance.live
+curl https://detective-pikachu-danceio-production.up.railway.app
 ```
 
 # :partydetectivepikachu:
