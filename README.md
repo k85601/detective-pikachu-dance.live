@@ -8,9 +8,9 @@ An initiative, using frames from [`terminal-parrot`](https://github.com/k85601/d
 curl https://github.com/k85601/detective-pikachu-dance.live
 ```
 
-# :partyparrot:
+# :partydetectivepikachu:
 <div align="center">
-  <img src='https://d.pr/i/jKluc0.gif](https://github.com/k85601/detective-pikachu-dance.live/blob/master/dance.live.gif' />
+  <img src='https://d.pr/i/jKluc0.gif](https://github.com/k85601/detective-pikachu-dance.live/blob/master/dance.live.gif)/>
 </div>
 
 # Thanks
