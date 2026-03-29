@@ -16,6 +16,5 @@ curl https://detective-pikachu-danceio-production.up.railway.app
 # Thanks
 * [jmhobbs](https://github.com/jmhobbs) for [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot), and guidance to save myself from pachinko gambler killers bullshitting.
 
-# dance 
+# Dance 
 * [cultofthepartyparrot.com](http://cultofthepartyparrot.com/)
-* [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot)
